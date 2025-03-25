@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(173, 171, 171);
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    text-align: center;
+}
+
+/* FLEX */
+
+.d-flex {
+    display: flex;
+}
+
+.direction-column {
+    flex-direction: column;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+/* margin & padding */
+
+.mx-auto {
+    margin: 0 auto;
+}
+
+/* LAYOUT */
+ 
+.w-50 {
+    width: 50%;
+}
+
+/* BTN */
+
+.btn {
+    padding: 10px 15px;
+    border-radius: 15px;
+    background-color: white;
+}
