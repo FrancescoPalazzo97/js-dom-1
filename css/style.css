@@ -16,6 +16,16 @@ li {
     text-align: center;
 }
 
+/* DISPLAY */
+
+.d-none {
+    display: none;
+}
+
+.d-block {
+    display: block;
+}
+
 /* FLEX */
 
 .d-flex {
